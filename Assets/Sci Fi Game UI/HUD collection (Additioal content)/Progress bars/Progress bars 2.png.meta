@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 4623cfdff29dc4dc88abf444cc4c075a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4458617668020475284
+    second: Progress bars 2_0
+  - first:
+      213: 4829995919661798434
+    second: Progress bars 2_1
+  - first:
+      213: 7143387527503041424
+    second: Progress bars 2_2
+  - first:
+      213: 1230704668333328106
+    second: Progress bars 2_3
+  - first:
+      213: -2975186357634639751
+    second: Progress bars 2_4
+  - first:
+      213: -8343753535321618524
+    second: Progress bars 2_5
+  - first:
+      213: 7480226660413326306
+    second: Progress bars 2_6
+  - first:
+      213: -232366753640079589
+    second: Progress bars 2_7
+  - first:
+      213: 45399275653312814
+    second: Progress bars 2_8
+  - first:
+      213: -436600951191206220
+    second: Progress bars 2_9
+  - first:
+      213: 8053387077514577124
+    second: Progress bars 2_10
+  - first:
+      213: -1541874254870411850
+    second: Progress bars 2_11
+  - first:
+      213: 1402808574849827583
+    second: Progress bars 2_12
+  - first:
+      213: -982443261629565418
+    second: Progress bars 2_13
+  - first:
+      213: -8208799312011845296
+    second: Progress bars 2_14
+  - first:
+      213: -3840932235202194230
+    second: Progress bars 2_15
+  - first:
+      213: -5819888093892026132
+    second: Progress bars 2_16
+  - first:
+      213: 3612850725867829880
+    second: Progress bars 2_17
+  - first:
+      213: 8739450674230195405
+    second: Progress bars 2_18
+  - first:
+      213: 6133362978573918392
+    second: Progress bars 2_19
+  - first:
+      213: -3958047542723207546
+    second: Progress bars 2_20
+  - first:
+      213: -8467872268546103861
+    second: Progress bars 2_21
+  - first:
+      213: 6027758087760407962
+    second: Progress bars 2_22
+  - first:
+      213: -5463351773727508881
+    second: Progress bars 2_23
+  - first:
+      213: 6909033581744001959
+    second: Progress bars 2_24
+  - first:
+      213: -5023890327627950135
+    second: Progress bars 2_25
+  - first:
+      213: -7656059232283670438
+    second: Progress bars 2_26
+  - first:
+      213: -4293300460485303262
+    second: Progress bars 2_27
+  - first:
+      213: -6479143833118320899
+    second: Progress bars 2_28
+  - first:
+      213: -9042707715636980831
+    second: Progress bars 2_29
+  - first:
+      213: -9047111222647773618
+    second: Progress bars 2_30
+  - first:
+      213: -1054540778464309582
+    second: Progress bars 2_31
+  - first:
+      213: 2615231845011179220
+    second: Progress bars 2_32
+  - first:
+      213: -3236750958193018812
+    second: Progress bars 2_33
+  - first:
+      213: -2348695614579003045
+    second: Progress bars 2_34
+  - first:
+      213: 8958625785031354611
+    second: Progress bars 2_35
+  - first:
+      213: -6870115902505865573
+    second: Progress bars 2_36
+  - first:
+      213: 7342817196327910466
+    second: Progress bars 2_37
+  - first:
+      213: -5521282489662861304
+    second: Progress bars 2_38
+  - first:
+      213: 5087171129565493007
+    second: Progress bars 2_39
+  - first:
+      213: 6129086793967690913
+    second: Progress bars 2_40
+  - first:
+      213: 5970102103741701251
+    second: Progress bars 2_41
+  - first:
+      213: -3222053897562699457
+    second: Progress bars 2_42
+  - first:
+      213: 2555932098450416290
+    second: Progress bars 2_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Progress bars 2_0
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 6622
+        width: 1197
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49514a3752130ed30800000000000000
+      internalID: 4458617668020475284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_1
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 6622
+        width: 1197
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2241702d2b7970340800000000000000
+      internalID: 4829995919661798434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 5982
+        width: 1716
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09356c5eb19622360800000000000000
+      internalID: 7143387527503041424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_3
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 6427
+        width: 1131
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae64c631067541110800000000000000
+      internalID: 1230704668333328106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_4
+      rect:
+        serializedVersion: 2
+        x: 4665
+        y: 5982
+        width: 1716
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978599c55c306b6d0800000000000000
+      internalID: -2975186357634639751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_5
+      rect:
+        serializedVersion: 2
+        x: 6793
+        y: 6427
+        width: 1131
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7ceb1ed58053c80800000000000000
+      internalID: -8343753535321618524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_6
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 6192
+        width: 1197
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3c755048a1fc760800000000000000
+      internalID: 7480226660413326306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_7
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 6192
+        width: 1198
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f1caf2ba776ccf0800000000000000
+      internalID: -232366753640079589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_8
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 5016
+        width: 700
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e213062966a41a000800000000000000
+      internalID: 45399275653312814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_9
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 5965
+        width: 1129
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b686a38fb1e0f9f0800000000000000
+      internalID: -436600951191206220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_10
+      rect:
+        serializedVersion: 2
+        x: 6358
+        y: 5016
+        width: 701
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e44af9d0e063cf60800000000000000
+      internalID: 8053387077514577124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_11
+      rect:
+        serializedVersion: 2
+        x: 6793
+        y: 5965
+        width: 1129
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5012ec8892a9ae0800000000000000
+      internalID: -1541874254870411850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 5598
+        width: 1496
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2cbc767f6c77310800000000000000
+      internalID: 1402808574849827583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_13
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 5722
+        width: 1196
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616f79a0f09ad52f0800000000000000
+      internalID: -982443261629565418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_14
+      rect:
+        serializedVersion: 2
+        x: 4678
+        y: 5598
+        width: 1496
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051201f848c741e80800000000000000
+      internalID: -8208799312011845296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_15
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 5722
+        width: 1197
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac41d627b7442bac0800000000000000
+      internalID: -3840932235202194230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_16
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 5514
+        width: 1126
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce06a0b1d9a9b3fa0800000000000000
+      internalID: -5819888093892026132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_17
+      rect:
+        serializedVersion: 2
+        x: 6761
+        y: 5514
+        width: 1125
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a3ddde79c632230800000000000000
+      internalID: 3612850725867829880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 5212
+        width: 1496
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4f989a514c84970800000000000000
+      internalID: 8739450674230195405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_19
+      rect:
+        serializedVersion: 2
+        x: 4678
+        y: 5212
+        width: 1496
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b02e6012251e1550800000000000000
+      internalID: 6133362978573918392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_20
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 4681
+        width: 1841
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e10e30bb03219c0800000000000000
+      internalID: -3958047542723207546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_21
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 4681
+        width: 1841
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5ade559031c7a80800000000000000
+      internalID: -8467872268546103861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_22
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 3704
+        width: 1196
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d62fc5b06e6a350800000000000000
+      internalID: 6027758087760407962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_23
+      rect:
+        serializedVersion: 2
+        x: 6678
+        y: 3771
+        width: 1197
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66b8f302864e24b0800000000000000
+      internalID: -5463351773727508881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_24
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3064
+        width: 1716
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3981ddf61d1ef50800000000000000
+      internalID: 6909033581744001959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_25
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 3510
+        width: 1131
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7173f5d5e874ab0800000000000000
+      internalID: -5023890327627950135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_26
+      rect:
+        serializedVersion: 2
+        x: 4587
+        y: 3132
+        width: 1716
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58c16811b630c590800000000000000
+      internalID: -7656059232283670438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_27
+      rect:
+        serializedVersion: 2
+        x: 6715
+        y: 3577
+        width: 1131
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224a0c26af12b64c0800000000000000
+      internalID: -4293300460485303262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_28
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 3274
+        width: 1197
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6d15203057516a0800000000000000
+      internalID: -6479143833118320899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_29
+      rect:
+        serializedVersion: 2
+        x: 6678
+        y: 3342
+        width: 1198
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a316c13e39d18280800000000000000
+      internalID: -9042707715636980831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_30
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 3047
+        width: 1129
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4621a2d644327280800000000000000
+      internalID: -9047111222647773618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_31
+      rect:
+        serializedVersion: 2
+        x: 6280
+        y: 2166
+        width: 701
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be887acfb48d51f0800000000000000
+      internalID: -1054540778464309582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_32
+      rect:
+        serializedVersion: 2
+        x: 6715
+        y: 3114
+        width: 1129
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d64e27c18b2b4420800000000000000
+      internalID: 2615231845011179220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_33
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2680
+        width: 1496
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448ff7e0720c413d0800000000000000
+      internalID: -3236750958193018812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_34
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 2098
+        width: 701
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51308f48c1c76fd0800000000000000
+      internalID: -2348695614579003045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_35
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 2804
+        width: 1196
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8e278cfae635c70800000000000000
+      internalID: 8958625785031354611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_36
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 2748
+        width: 1497
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e20617cf178a0a0800000000000000
+      internalID: -6870115902505865573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_37
+      rect:
+        serializedVersion: 2
+        x: 6678
+        y: 2871
+        width: 1197
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c31cd065de6e560800000000000000
+      internalID: 7342817196327910466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_38
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 2596
+        width: 1126
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8009f0324d67063b0800000000000000
+      internalID: -5521282489662861304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_39
+      rect:
+        serializedVersion: 2
+        x: 6683
+        y: 2664
+        width: 1126
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07bf597033499640800000000000000
+      internalID: 5087171129565493007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_40
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2294
+        width: 1496
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a46bff37f3ee0550800000000000000
+      internalID: 6129086793967690913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_41
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 2362
+        width: 1497
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c165e7b301ad250800000000000000
+      internalID: 5970102103741701251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1763
+        width: 1840
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39cc942d07f843d0800000000000000
+      internalID: -3222053897562699457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress bars 2_43
+      rect:
+        serializedVersion: 2
+        x: 4525
+        y: 1831
+        width: 1840
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2e72e93be787320800000000000000
+      internalID: 2555932098450416290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Progress bars 2_0: 4458617668020475284
+      Progress bars 2_1: 4829995919661798434
+      Progress bars 2_10: 8053387077514577124
+      Progress bars 2_11: -1541874254870411850
+      Progress bars 2_12: 1402808574849827583
+      Progress bars 2_13: -982443261629565418
+      Progress bars 2_14: -8208799312011845296
+      Progress bars 2_15: -3840932235202194230
+      Progress bars 2_16: -5819888093892026132
+      Progress bars 2_17: 3612850725867829880
+      Progress bars 2_18: 8739450674230195405
+      Progress bars 2_19: 6133362978573918392
+      Progress bars 2_2: 7143387527503041424
+      Progress bars 2_20: -3958047542723207546
+      Progress bars 2_21: -8467872268546103861
+      Progress bars 2_22: 6027758087760407962
+      Progress bars 2_23: -5463351773727508881
+      Progress bars 2_24: 6909033581744001959
+      Progress bars 2_25: -5023890327627950135
+      Progress bars 2_26: -7656059232283670438
+      Progress bars 2_27: -4293300460485303262
+      Progress bars 2_28: -6479143833118320899
+      Progress bars 2_29: -9042707715636980831
+      Progress bars 2_3: 1230704668333328106
+      Progress bars 2_30: -9047111222647773618
+      Progress bars 2_31: -1054540778464309582
+      Progress bars 2_32: 2615231845011179220
+      Progress bars 2_33: -3236750958193018812
+      Progress bars 2_34: -2348695614579003045
+      Progress bars 2_35: 8958625785031354611
+      Progress bars 2_36: -6870115902505865573
+      Progress bars 2_37: 7342817196327910466
+      Progress bars 2_38: -5521282489662861304
+      Progress bars 2_39: 5087171129565493007
+      Progress bars 2_4: -2975186357634639751
+      Progress bars 2_40: 6129086793967690913
+      Progress bars 2_41: 5970102103741701251
+      Progress bars 2_42: -3222053897562699457
+      Progress bars 2_43: 2555932098450416290
+      Progress bars 2_5: -8343753535321618524
+      Progress bars 2_6: 7480226660413326306
+      Progress bars 2_7: -232366753640079589
+      Progress bars 2_8: 45399275653312814
+      Progress bars 2_9: -436600951191206220
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

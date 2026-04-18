@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 97efe481976e2491abf04f51f97fe4c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6366117243482589188
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_0
+  - first:
+      213: -1154154746999164445
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_1
+  - first:
+      213: -4681973944322343200
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_2
+  - first:
+      213: -2263873026289297170
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_3
+  - first:
+      213: -7145225786246160813
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_4
+  - first:
+      213: -4819698919343184838
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_5
+  - first:
+      213: 2765045368041078570
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_6
+  - first:
+      213: -2778461395096849521
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_7
+  - first:
+      213: -5386010765788629580
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_8
+  - first:
+      213: 4309185240716482385
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_9
+  - first:
+      213: -8254151361258035886
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_10
+  - first:
+      213: -2224294988320898774
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_11
+  - first:
+      213: 6963099952607302696
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_12
+  - first:
+      213: -5377351439780496571
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_13
+  - first:
+      213: 2523261734957484704
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_14
+  - first:
+      213: 1571158697232911039
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_15
+  - first:
+      213: 1966767496431235658
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_16
+  - first:
+      213: -6556271888592523920
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_17
+  - first:
+      213: -7744703337555202921
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_18
+  - first:
+      213: -6304906971225121391
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_19
+  - first:
+      213: -4426364144938516527
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_20
+  - first:
+      213: 8885971055903672822
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_21
+  - first:
+      213: -1598353736430869832
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_22
+  - first:
+      213: 8246529976654648727
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_23
+  - first:
+      213: -272400673249789001
+    second: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 330
+        width: 96
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408c44067edf85850800000000000000
+      internalID: 6366117243482589188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_1
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 472
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1b8416f5e9bffe0800000000000000
+      internalID: -1154154746999164445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 327
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee3809f089460fb0800000000000000
+      internalID: -4681973944322343200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 330
+        width: 63
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee810732a7b1590e0800000000000000
+      internalID: -2263873026289297170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 328
+        width: 109
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e16d2210f07dc90800000000000000
+      internalID: -7145225786246160813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 330
+        width: 177
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3427346e5dfc1db0800000000000000
+      internalID: -4819698919343184838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 330
+        width: 24
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f7de5cc1a6f5620800000000000000
+      internalID: 2765045368041078570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_7
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 280
+        width: 118
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83bd13051ce079d0800000000000000
+      internalID: -2778461395096849521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_8
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 328
+        width: 81
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b53dbcaebb0145b0800000000000000
+      internalID: -5386010765788629580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_9
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 327
+        width: 105
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1571348352d4dcb30800000000000000
+      internalID: 4309185240716482385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_10
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 330
+        width: 177
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25568edb11d537d80800000000000000
+      internalID: -8254151361258035886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 115
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2183713e77b121e0800000000000000
+      internalID: -2224294988320898774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 29
+        width: 24
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82492bac386e1a060800000000000000
+      internalID: 6963099952607302696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_13
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 171
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb27f1b5fcf55b0800000000000000
+      internalID: -5377351439780496571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_14
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 27
+        width: 74
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa0a7bdd2d640320800000000000000
+      internalID: 2523261734957484704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_15
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 27
+        width: 74
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba4552c280edc510800000000000000
+      internalID: 1571158697232911039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 26
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42719c1e9c5b4b10800000000000000
+      internalID: 1966767496431235658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_17
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 26
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d209534717305a0800000000000000
+      internalID: -6556271888592523920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 29
+        width: 63
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c6d320959458490800000000000000
+      internalID: -7744703337555202921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_19
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 27
+        width: 81
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d1e36b3887088a0800000000000000
+      internalID: -6304906971225121391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_20
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 29
+        width: 24
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dff96613456292c0800000000000000
+      internalID: -4426364144938516527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_21
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 26
+        width: 99
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f98a8f689f415b70800000000000000
+      internalID: 8885971055903672822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_22
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 29
+        width: 177
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2ae92ceb181d9e0800000000000000
+      internalID: -1598353736430869832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_23
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 27
+        width: 109
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7955c10625f817270800000000000000
+      internalID: 8246529976654648727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_24
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 0
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb7e5ae70d383cf0800000000000000
+      internalID: -272400673249789001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_0: 6366117243482589188
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_1: -1154154746999164445
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_10: -8254151361258035886
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_11: -2224294988320898774
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_12: 6963099952607302696
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_13: -5377351439780496571
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_14: 2523261734957484704
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_15: 1571158697232911039
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_16: 1966767496431235658
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_17: -6556271888592523920
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_18: -7744703337555202921
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_19: -6304906971225121391
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_2: -4681973944322343200
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_20: -4426364144938516527
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_21: 8885971055903672822
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_22: -1598353736430869832
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_23: 8246529976654648727
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_24: -272400673249789001
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_3: -2263873026289297170
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_4: -7145225786246160813
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_5: -4819698919343184838
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_6: 2765045368041078570
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_7: -2778461395096849521
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_8: -5386010765788629580
+      ELEMENTS-3_0001s_0004_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-elit,-sed-_9: 4309185240716482385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: a4b3a23bed1cd43129084be745fedb7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6836299116367839909
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_0
+  - first:
+      213: -2970703352950075279
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_1
+  - first:
+      213: 7631513213698201294
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_2
+  - first:
+      213: -1133527808425715008
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_3
+  - first:
+      213: -8634990697700304197
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_4
+  - first:
+      213: 2391149375404970790
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_5
+  - first:
+      213: 6984985544103648498
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_6
+  - first:
+      213: 5510439314868096851
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_7
+  - first:
+      213: 6418494361250773635
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_8
+  - first:
+      213: 2613829487212556244
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_9
+  - first:
+      213: 3533002848232181931
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_10
+  - first:
+      213: -3712260419317492728
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_11
+  - first:
+      213: 685443463808279760
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_12
+  - first:
+      213: -3064775951264110499
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_13
+  - first:
+      213: 4575977584741877372
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_14
+  - first:
+      213: -7428446536948106637
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_15
+  - first:
+      213: 7397535725741585328
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_16
+  - first:
+      213: 1255076129986653295
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_17
+  - first:
+      213: 2883462452517277114
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_18
+  - first:
+      213: 7173169945374933832
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_19
+  - first:
+      213: -5504868113513798995
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_20
+  - first:
+      213: 2243785034708308769
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_21
+  - first:
+      213: -1384379253576355317
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_22
+  - first:
+      213: 7160950318989669179
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_23
+  - first:
+      213: 7777736815875366789
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_24
+  - first:
+      213: 3702389981724064592
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_25
+  - first:
+      213: 3639478272346963849
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_26
+  - first:
+      213: 4799149118836672057
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_27
+  - first:
+      213: -7328111411196636008
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_28
+  - first:
+      213: 4761267800839178449
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_29
+  - first:
+      213: 9044321045773983535
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_30
+  - first:
+      213: 1869330059471724054
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_31
+  - first:
+      213: 5292470353052001511
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_32
+  - first:
+      213: -1617554020313058666
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_33
+  - first:
+      213: 8774472578789913885
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_34
+  - first:
+      213: -1432238460008670776
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_35
+  - first:
+      213: 369245547417817500
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_36
+  - first:
+      213: -4031069423847684620
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_37
+  - first:
+      213: -7138745443594951171
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_38
+  - first:
+      213: 33638231605634322
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_39
+  - first:
+      213: -6168739998747932998
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_40
+  - first:
+      213: -8754872047503646749
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_41
+  - first:
+      213: 8038655856025627756
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_42
+  - first:
+      213: -4013598725718084630
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_43
+  - first:
+      213: -4530517010732301446
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_44
+  - first:
+      213: -1358387994624436768
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_45
+  - first:
+      213: -935691480961035215
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_46
+  - first:
+      213: 1092190987676339807
+    second: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5df3968c269021a0800000000000000
+      internalID: -6836299116367839909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 29
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170595a3a01f5c6d0800000000000000
+      internalID: -2970703352950075279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 121
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec65e2995d498e960800000000000000
+      internalID: 7631513213698201294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 31
+        width: 119
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca12c3c676e440f0800000000000000
+      internalID: -1133527808425715008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 118
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba55c8e5b95a2880800000000000000
+      internalID: -8634990697700304197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_5
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62319e520b11f2120800000000000000
+      internalID: 2391149375404970790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_6
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 30
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc59852857afe060800000000000000
+      internalID: 6984985544103648498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_7
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 31
+        width: 119
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f4f0f7c53097c40800000000000000
+      internalID: 5510439314868096851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_8
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 29
+        width: 81
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a333b6d92131950800000000000000
+      internalID: 6418494361250773635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_9
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 29
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfeeb8e110364420800000000000000
+      internalID: 2613829487212556244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_10
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 31
+        width: 26
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0925f2f5fb70130800000000000000
+      internalID: 3533002848232181931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_11
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 29
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80496d821d66b7cc0800000000000000
+      internalID: -3712260419317492728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_12
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 31
+        width: 49
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4e7edd23f238900800000000000000
+      internalID: 685443463808279760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_13
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 30
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d582ebc928ab775d0800000000000000
+      internalID: -3064775951264110499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_14
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 118
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7680b66e53218f30800000000000000
+      internalID: 4575977584741877372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_15
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 30
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a3a347b3bd8e890800000000000000
+      internalID: -7428446536948106637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_16
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 29
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3b61a7c8359a660800000000000000
+      internalID: 7397535725741585328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_17
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 31
+        width: 118
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c2ded271dea6110800000000000000
+      internalID: 1255076129986653295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_18
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 30
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd0875c2dd140820800000000000000
+      internalID: 2883462452517277114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_19
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 12
+        width: 86
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843c49b6f083c8360800000000000000
+      internalID: 7173169945374933832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_20
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 30
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2a2a6ed97ca93b0800000000000000
+      internalID: -5504868113513798995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_21
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 29
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123502ad996832f10800000000000000
+      internalID: 2243785034708308769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_22
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 31
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0239245762b9cce0800000000000000
+      internalID: -1384379253576355317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_23
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 30
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b337991ff5ec06360800000000000000
+      internalID: 7160950318989669179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_24
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 30
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f9ab20d6210fb60800000000000000
+      internalID: 7777736815875366789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_25
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 30
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bb0a08218816330800000000000000
+      internalID: 3702389981724064592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_26
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 30
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f3ef6b436028230800000000000000
+      internalID: 3639478272346963849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_27
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 30
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936836452b00a9240800000000000000
+      internalID: 4799149118836672057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_28
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 30
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894532d5f715d4a90800000000000000
+      internalID: -7328111411196636008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_29
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 30
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8468da6db631240800000000000000
+      internalID: 4761267800839178449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_30
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 31
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f92ff7212e38d70800000000000000
+      internalID: 9044321045773983535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_31
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 29
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e95c2f8c131f910800000000000000
+      internalID: 1869330059471724054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_32
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 29
+        width: 81
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e463f1deb1a27940800000000000000
+      internalID: 5292470353052001511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_33
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 118
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6923c3e403b4d89e0800000000000000
+      internalID: -1617554020313058666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_34
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15bd2e325035c970800000000000000
+      internalID: 8774472578789913885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_35
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 118
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9d78d75baaf1ce0800000000000000
+      internalID: -1432238460008670776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_36
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 30
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91dbb87ed2df1500800000000000000
+      internalID: 369245547417817500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_37
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 30
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5ce9e67b3ce08c0800000000000000
+      internalID: -4031069423847684620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_38
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 118
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5a59c77d41eec90800000000000000
+      internalID: -7138745443594951171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_39
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 31
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215e9bd1bc1877000800000000000000
+      internalID: 33638231605634322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_40
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 0
+        width: 80
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6c2ee87ab346aa0800000000000000
+      internalID: -6168739998747932998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_41
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 31
+        width: 26
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef5c821242708680800000000000000
+      internalID: -8754872047503646749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 29
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c650219ea0f8f60800000000000000
+      internalID: 8038655856025627756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_43
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 31
+        width: 26
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3fc925935dc48c0800000000000000
+      internalID: -4013598725718084630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_44
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 29
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73cf6e48ce5021c0800000000000000
+      internalID: -4530517010732301446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_45
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 31
+        width: 26
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e55141e059062de0800000000000000
+      internalID: -1358387994624436768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_46
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 31
+        width: 26
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13455f93e81c303f0800000000000000
+      internalID: -935691480961035215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_47
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 31
+        width: 26
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ec457aaed382f00800000000000000
+      internalID: 1092190987676339807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_0: -6836299116367839909
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_1: -2970703352950075279
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_10: 3533002848232181931
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_11: -3712260419317492728
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_12: 685443463808279760
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_13: -3064775951264110499
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_14: 4575977584741877372
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_15: -7428446536948106637
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_16: 7397535725741585328
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_17: 1255076129986653295
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_18: 2883462452517277114
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_19: 7173169945374933832
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_2: 7631513213698201294
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_20: -5504868113513798995
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_21: 2243785034708308769
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_22: -1384379253576355317
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_23: 7160950318989669179
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_24: 7777736815875366789
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_25: 3702389981724064592
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_26: 3639478272346963849
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_27: 4799149118836672057
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_28: -7328111411196636008
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_29: 4761267800839178449
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_3: -1133527808425715008
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_30: 9044321045773983535
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_31: 1869330059471724054
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_32: 5292470353052001511
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_33: -1617554020313058666
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_34: 8774472578789913885
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_35: -1432238460008670776
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_36: 369245547417817500
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_37: -4031069423847684620
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_38: -7138745443594951171
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_39: 33638231605634322
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_4: -8634990697700304197
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_40: -6168739998747932998
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_41: -8754872047503646749
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_42: 8038655856025627756
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_43: -4013598725718084630
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_44: -4530517010732301446
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_45: -1358387994624436768
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_46: -935691480961035215
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_47: 1092190987676339807
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_5: 2391149375404970790
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_6: 6984985544103648498
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_7: 5510439314868096851
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_8: 6418494361250773635
+      Sci-Fi-UI-Purple-8_0000s_0006_Lorem-ipsum-dolor-sit-amet,-consectetuer-adipiscing-_9: 2613829487212556244
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

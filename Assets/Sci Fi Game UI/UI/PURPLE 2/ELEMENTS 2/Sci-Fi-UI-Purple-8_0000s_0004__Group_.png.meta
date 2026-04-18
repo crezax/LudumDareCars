@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: fe5f22d5032864f30b2e3dee2f3afa7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2607522487661875331
+    second: Sci-Fi-UI-Purple-8_0000s_0004__Group__0
+  - first:
+      213: 2033117799718014805
+    second: Sci-Fi-UI-Purple-8_0000s_0004__Group__1
+  - first:
+      213: 189876383170704969
+    second: Sci-Fi-UI-Purple-8_0000s_0004__Group__2
+  - first:
+      213: -6659343403566854440
+    second: Sci-Fi-UI-Purple-8_0000s_0004__Group__3
+  - first:
+      213: 5179775282506404696
+    second: Sci-Fi-UI-Purple-8_0000s_0004__Group__4
+  - first:
+      213: 379853010441281810
+    second: Sci-Fi-UI-Purple-8_0000s_0004__Group__5
+  - first:
+      213: -4420059591386506204
+    second: Sci-Fi-UI-Purple-8_0000s_0004__Group__6
+  - first:
+      213: 7530275688801827727
+    second: Sci-Fi-UI-Purple-8_0000s_0004__Group__7
+  - first:
+      213: 5148299192740670198
+    second: Sci-Fi-UI-Purple-8_0000s_0004__Group__8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0004__Group__0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 30
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380dde423e7cf2420800000000000000
+      internalID: 2607522487661875331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0004__Group__1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 400
+        width: 29
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f47beedd5173c10800000000000000
+      internalID: 2033117799718014805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0004__Group__2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9463022809392a200800000000000000
+      internalID: 189876383170704969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0004__Group__3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 254
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de8e0905724593a0800000000000000
+      internalID: -6659343403566854440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0004__Group__4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 254
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85394220d2242e740800000000000000
+      internalID: 5179775282506404696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0004__Group__5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 282
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211273aec42854500800000000000000
+      internalID: 379853010441281810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0004__Group__6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 107
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c5959583bc8a2c0800000000000000
+      internalID: -4420059591386506204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0004__Group__7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 357
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bfac387d9e08860800000000000000
+      internalID: 7530275688801827727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi-UI-Purple-8_0000s_0004__Group__8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 147
+        width: 109
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faecb4c6de627740800000000000000
+      internalID: 5148299192740670198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sci-Fi-UI-Purple-8_0000s_0004__Group__0: 2607522487661875331
+      Sci-Fi-UI-Purple-8_0000s_0004__Group__1: 2033117799718014805
+      Sci-Fi-UI-Purple-8_0000s_0004__Group__2: 189876383170704969
+      Sci-Fi-UI-Purple-8_0000s_0004__Group__3: -6659343403566854440
+      Sci-Fi-UI-Purple-8_0000s_0004__Group__4: 5179775282506404696
+      Sci-Fi-UI-Purple-8_0000s_0004__Group__5: 379853010441281810
+      Sci-Fi-UI-Purple-8_0000s_0004__Group__6: -4420059591386506204
+      Sci-Fi-UI-Purple-8_0000s_0004__Group__7: 7530275688801827727
+      Sci-Fi-UI-Purple-8_0000s_0004__Group__8: 5148299192740670198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

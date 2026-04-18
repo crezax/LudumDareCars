@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: aa8b2f34337f84935b1ecb0376dedc3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8392773962497326503
+    second: YOU-WIN_0000s_0006_YOUR-REWARDS_0
+  - first:
+      213: 4773496338587324537
+    second: YOU-WIN_0000s_0006_YOUR-REWARDS_1
+  - first:
+      213: 2199779624760334784
+    second: YOU-WIN_0000s_0006_YOUR-REWARDS_2
+  - first:
+      213: 6651448453566594466
+    second: YOU-WIN_0000s_0006_YOUR-REWARDS_3
+  - first:
+      213: -5348372769741104087
+    second: YOU-WIN_0000s_0006_YOUR-REWARDS_4
+  - first:
+      213: 8738137491476715789
+    second: YOU-WIN_0000s_0006_YOUR-REWARDS_5
+  - first:
+      213: 2427907835832691057
+    second: YOU-WIN_0000s_0006_YOUR-REWARDS_6
+  - first:
+      213: -9223328321556725458
+    second: YOU-WIN_0000s_0006_YOUR-REWARDS_7
+  - first:
+      213: 3766998307020717554
+    second: YOU-WIN_0000s_0006_YOUR-REWARDS_8
+  - first:
+      213: 2812982272781784309
+    second: YOU-WIN_0000s_0006_YOUR-REWARDS_9
+  - first:
+      213: -8068144080437548743
+    second: YOU-WIN_0000s_0006_YOUR-REWARDS_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YOU-WIN_0000s_0006_YOUR-REWARDS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 148
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95203354c80e68b80800000000000000
+      internalID: -8392773962497326503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU-WIN_0000s_0006_YOUR-REWARDS_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 174
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970102ef0adde3240800000000000000
+      internalID: 4773496338587324537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU-WIN_0000s_0006_YOUR-REWARDS_2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 0
+        width: 141
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c95bfde9ef278e10800000000000000
+      internalID: 2199779624760334784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU-WIN_0000s_0006_YOUR-REWARDS_3
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2
+        width: 125
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad78aca021be4c50800000000000000
+      internalID: 6651448453566594466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU-WIN_0000s_0006_YOUR-REWARDS_4
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2
+        width: 125
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c95358d43c6c5b0800000000000000
+      internalID: -5348372769741104087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU-WIN_0000s_0006_YOUR-REWARDS_5
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 2
+        width: 108
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d091ef970c9144970800000000000000
+      internalID: 8738137491476715789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU-WIN_0000s_0006_YOUR-REWARDS_6
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 2
+        width: 231
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179e1362059a1b120800000000000000
+      internalID: 2427907835832691057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU-WIN_0000s_0006_YOUR-REWARDS_7
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2
+        width: 159
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21cfc242c7200080800000000000000
+      internalID: -9223328321556725458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU-WIN_0000s_0006_YOUR-REWARDS_8
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 2
+        width: 125
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdb7777001174430800000000000000
+      internalID: 3766998307020717554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU-WIN_0000s_0006_YOUR-REWARDS_9
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 0
+        width: 157
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f411a82978b90720800000000000000
+      internalID: 2812982272781784309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU-WIN_0000s_0006_YOUR-REWARDS_10
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 0
+        width: 115
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93969d8a4b1380090800000000000000
+      internalID: -8068144080437548743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YOU-WIN_0000s_0006_YOUR-REWARDS_0: -8392773962497326503
+      YOU-WIN_0000s_0006_YOUR-REWARDS_1: 4773496338587324537
+      YOU-WIN_0000s_0006_YOUR-REWARDS_10: -8068144080437548743
+      YOU-WIN_0000s_0006_YOUR-REWARDS_2: 2199779624760334784
+      YOU-WIN_0000s_0006_YOUR-REWARDS_3: 6651448453566594466
+      YOU-WIN_0000s_0006_YOUR-REWARDS_4: -5348372769741104087
+      YOU-WIN_0000s_0006_YOUR-REWARDS_5: 8738137491476715789
+      YOU-WIN_0000s_0006_YOUR-REWARDS_6: 2427907835832691057
+      YOU-WIN_0000s_0006_YOUR-REWARDS_7: -9223328321556725458
+      YOU-WIN_0000s_0006_YOUR-REWARDS_8: 3766998307020717554
+      YOU-WIN_0000s_0006_YOUR-REWARDS_9: 2812982272781784309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

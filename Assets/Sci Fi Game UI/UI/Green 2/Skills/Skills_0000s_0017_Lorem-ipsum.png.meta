@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: e611267d3d0494e83b0c5fe92acb1538
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5917266144385231115
+    second: Skills_0000s_0017_Lorem-ipsum_0
+  - first:
+      213: 536153521335067993
+    second: Skills_0000s_0017_Lorem-ipsum_1
+  - first:
+      213: 2800509839613318241
+    second: Skills_0000s_0017_Lorem-ipsum_2
+  - first:
+      213: 1258415518675845137
+    second: Skills_0000s_0017_Lorem-ipsum_3
+  - first:
+      213: 8826045705980129051
+    second: Skills_0000s_0017_Lorem-ipsum_4
+  - first:
+      213: 2284539453976628331
+    second: Skills_0000s_0017_Lorem-ipsum_5
+  - first:
+      213: -5084217910931046332
+    second: Skills_0000s_0017_Lorem-ipsum_6
+  - first:
+      213: 1267240047653629742
+    second: Skills_0000s_0017_Lorem-ipsum_7
+  - first:
+      213: 8344682078127845271
+    second: Skills_0000s_0017_Lorem-ipsum_8
+  - first:
+      213: 8698274951445360936
+    second: Skills_0000s_0017_Lorem-ipsum_9
+  - first:
+      213: -3218112775989791077
+    second: Skills_0000s_0017_Lorem-ipsum_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skills_0000s_0017_Lorem-ipsum_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6197eeac5a1eda0800000000000000
+      internalID: -5917266144385231115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skills_0000s_0017_Lorem-ipsum_1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 100
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955604879ccc07700800000000000000
+      internalID: 536153521335067993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skills_0000s_0017_Lorem-ipsum_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 24
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16453248cd86dd620800000000000000
+      internalID: 2800509839613318241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skills_0000s_0017_Lorem-ipsum_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 25
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11043823f3ac67110800000000000000
+      internalID: 1258415518675845137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skills_0000s_0017_Lorem-ipsum_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 24
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fae44aec96c7a70800000000000000
+      internalID: 8826045705980129051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skills_0000s_0017_Lorem-ipsum_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 25
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c44a5878054bf10800000000000000
+      internalID: 2284539453976628331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skills_0000s_0017_Lorem-ipsum_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 25
+        width: 14
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440c6425fba3179b0800000000000000
+      internalID: -5084217910931046332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skills_0000s_0017_Lorem-ipsum_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f2b85fb14269110800000000000000
+      internalID: 1267240047653629742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skills_0000s_0017_Lorem-ipsum_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 24
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fe06653244ec370800000000000000
+      internalID: 8344682078127845271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skills_0000s_0017_Lorem-ipsum_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 24
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821349f9bfa76b870800000000000000
+      internalID: 8698274951445360936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skills_0000s_0017_Lorem-ipsum_10
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 25
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b967bf30b77f653d0800000000000000
+      internalID: -3218112775989791077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skills_0000s_0017_Lorem-ipsum_0: -5917266144385231115
+      Skills_0000s_0017_Lorem-ipsum_1: 536153521335067993
+      Skills_0000s_0017_Lorem-ipsum_10: -3218112775989791077
+      Skills_0000s_0017_Lorem-ipsum_2: 2800509839613318241
+      Skills_0000s_0017_Lorem-ipsum_3: 1258415518675845137
+      Skills_0000s_0017_Lorem-ipsum_4: 8826045705980129051
+      Skills_0000s_0017_Lorem-ipsum_5: 2284539453976628331
+      Skills_0000s_0017_Lorem-ipsum_6: -5084217910931046332
+      Skills_0000s_0017_Lorem-ipsum_7: 1267240047653629742
+      Skills_0000s_0017_Lorem-ipsum_8: 8344682078127845271
+      Skills_0000s_0017_Lorem-ipsum_9: 8698274951445360936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

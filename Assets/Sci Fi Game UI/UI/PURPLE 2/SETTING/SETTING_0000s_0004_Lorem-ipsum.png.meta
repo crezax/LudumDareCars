@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 1ee120592e9464d819e70c4dc53a5cc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4019255842732597632
+    second: SETTING_0000s_0004_Lorem-ipsum_0
+  - first:
+      213: 8373387818094380690
+    second: SETTING_0000s_0004_Lorem-ipsum_1
+  - first:
+      213: 5135442423112040488
+    second: SETTING_0000s_0004_Lorem-ipsum_2
+  - first:
+      213: 3089715409866595541
+    second: SETTING_0000s_0004_Lorem-ipsum_3
+  - first:
+      213: 2048055692468310608
+    second: SETTING_0000s_0004_Lorem-ipsum_4
+  - first:
+      213: -2264065905203443742
+    second: SETTING_0000s_0004_Lorem-ipsum_5
+  - first:
+      213: -7962845442672060680
+    second: SETTING_0000s_0004_Lorem-ipsum_6
+  - first:
+      213: -6840501320375125820
+    second: SETTING_0000s_0004_Lorem-ipsum_7
+  - first:
+      213: 2514050089718173647
+    second: SETTING_0000s_0004_Lorem-ipsum_8
+  - first:
+      213: 4533113359510411795
+    second: SETTING_0000s_0004_Lorem-ipsum_9
+  - first:
+      213: -2615079795016958452
+    second: SETTING_0000s_0004_Lorem-ipsum_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SETTING_0000s_0004_Lorem-ipsum_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 64
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0816d7fd4e347c730800000000000000
+      internalID: 4019255842732597632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTING_0000s_0004_Lorem-ipsum_1
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 128
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29649104bdf343470800000000000000
+      internalID: 8373387818094380690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTING_0000s_0004_Lorem-ipsum_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 30
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8208012dca1c44740800000000000000
+      internalID: 5135442423112040488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTING_0000s_0004_Lorem-ipsum_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc16269bcfd0ea20800000000000000
+      internalID: 3089715409866595541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTING_0000s_0004_Lorem-ipsum_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 30
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0525acd1dc72c6c10800000000000000
+      internalID: 2048055692468310608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTING_0000s_0004_Lorem-ipsum_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 32
+        width: 120
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e786440e0c6490e0800000000000000
+      internalID: -2264065905203443742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTING_0000s_0004_Lorem-ipsum_6
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 32
+        width: 17
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f69134424a4e7190800000000000000
+      internalID: -7962845442672060680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTING_0000s_0004_Lorem-ipsum_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c83379aa48a111a0800000000000000
+      internalID: -6840501320375125820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTING_0000s_0004_Lorem-ipsum_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 30
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfc0319c33b3e220800000000000000
+      internalID: 2514050089718173647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTING_0000s_0004_Lorem-ipsum_9
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 30
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a1230459ad8ee30800000000000000
+      internalID: 4533113359510411795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTING_0000s_0004_Lorem-ipsum_10
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 32
+        width: 119
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e76be18ce55bbd0800000000000000
+      internalID: -2615079795016958452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SETTING_0000s_0004_Lorem-ipsum_0: 4019255842732597632
+      SETTING_0000s_0004_Lorem-ipsum_1: 8373387818094380690
+      SETTING_0000s_0004_Lorem-ipsum_10: -2615079795016958452
+      SETTING_0000s_0004_Lorem-ipsum_2: 5135442423112040488
+      SETTING_0000s_0004_Lorem-ipsum_3: 3089715409866595541
+      SETTING_0000s_0004_Lorem-ipsum_4: 2048055692468310608
+      SETTING_0000s_0004_Lorem-ipsum_5: -2264065905203443742
+      SETTING_0000s_0004_Lorem-ipsum_6: -7962845442672060680
+      SETTING_0000s_0004_Lorem-ipsum_7: -6840501320375125820
+      SETTING_0000s_0004_Lorem-ipsum_8: 2514050089718173647
+      SETTING_0000s_0004_Lorem-ipsum_9: 4533113359510411795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
