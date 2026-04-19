@@ -20,10 +20,23 @@ public class SpikesField : TurnBasedBehaviour
         }
     }
 
-    private void Awake()
+    protected void Awake()
     {
         field = GetComponent<Field>();
         field.CarEntered += OnCarEntered;
+    }
+
+    protected new void Start()
+    {
+        base.Start();
+        if (SpikesActive)
+        {
+            spikes.transform.localPosition = new Vector3(0, 0, 0);
+        }
+        else
+        {
+            spikes.transform.localPosition = new Vector3(0, -0.5f, 0);
+        }
     }
 
     public override void BeforeTurn()

@@ -11,16 +11,32 @@ public class Car : TurnBasedBehaviour
         Boost
     }
 
-    private bool hasSignal = true;
+    [SerializeField]
+    private int jammerCount = 0;
+    [SerializeField]
+    private bool boostedSignal = false;
     private bool isAlive = true;
     public bool HasSignal
     {
-        get => hasSignal;
-        set
-        {
-            hasSignal = value;
-            signalSymbol.SetActive(!hasSignal);
-        }
+        get => jammerCount == 0 || boostedSignal;
+    }
+
+    public void JamSignal()
+    {
+        jammerCount++;
+        signalSymbol.SetActive(true);
+    }
+
+    public void UnjamSignal()
+    {
+        jammerCount = Mathf.Max(0, jammerCount - 1);
+        if (HasSignal) signalSymbol.SetActive(false);
+    }
+
+    public void BoostSignal()
+    {
+        boostedSignal = true;
+        signalSymbol.SetActive(false);
     }
 
     [SerializeField]
@@ -79,9 +95,15 @@ public class Car : TurnBasedBehaviour
 
     public override void DuringTurn()
     {
-        CurrentState = actions[actionIndex];
-        Debug.Log($"Car at {field.transform.position} with direction {currentDirection} and state {currentState}");
-        actionIndex = (actionIndex + 1) % actions.Length;
+        Debug.Log($"Car {name} at {field.name} with direction {currentDirection} and state {currentState}");
+        if (!HasSignal && CurrentState != State.Move && CurrentState != State.Boost)
+        {
+            currentState = State.Move;
+            Debug.Log($"Car {name} at {field.name} with direction {currentDirection} and state {currentState}");
+        }
+        // CurrentState = actions[actionIndex];
+        // Debug.Log($"Car at {field.transform.position} with direction {currentDirection} and state {currentState}");
+        // actionIndex = (actionIndex + 1) % actions.Length;
         switch (CurrentState)
         {
             case State.Move:
@@ -97,32 +119,43 @@ public class Car : TurnBasedBehaviour
                 Boost();
                 break;
         }
+        Debug.Log($"Car {name} at {field.name} with direction {currentDirection}");
     }
 
-    int actionIndex = 0;
-    State[] actions = new State[] { State.Move, State.TurnRight, State.Move, State.TurnRight, State.Boost, State.TurnRight, State.Boost, State.TurnRight, State.Boost, State.TurnLeft, State.TurnLeft, State.Move, State.TurnLeft, State.Move, State.TurnLeft };
+    public override void AfterTurn()
+    {
+        base.AfterTurn();
+        boostedSignal = false;
+        signalSymbol.SetActive(!HasSignal);
+    }
+
+    // int actionIndex = 0;
+    // State[] actions = new State[] { State.Move, State.TurnRight, State.Move, State.TurnRight, State.Boost, State.TurnRight, State.Boost, State.TurnRight, State.Boost, State.TurnLeft, State.TurnLeft, State.Move, State.TurnLeft, State.Move, State.TurnLeft };
 
     public void Die()
     {
         if (!isAlive) return;
         isAlive = false;
         transform.DOKill();
-        TurnManager.Instance.Unregister(this);
         Field = null;
-        transform.DOShakePosition(1f, 0.5f, 5).OnComplete(() =>
-        {
-            Destroy(gameObject);
-            GameManager.Instance.LevelFailed();
-        });
+        transform.DOShakePosition(1f, 0.5f, 5);
+        Destroy(gameObject, 1f);
+        GameManager.Instance.LevelFailed();
+    }
+
+    protected void OnDestroy()
+    {
+        Field = null;
+        transform.DOKill();
+        TurnManager.Instance.Unregister(this);
     }
 
     private void Move()
     {
         Field target = field.GetNeighbour(CurrentDirection);
-        transform.DOMove(new Vector3(target.transform.position.x, target.transform.position.y, transform.position.z), 1f).OnComplete(() =>
-        {
-            Field = target;
-        });
+        Debug.Log($"Car {name} trying to move from {field.name} to {target.name}");
+        Field = target;
+        transform.DOMove(new Vector3(target.transform.position.x, target.transform.position.y, transform.position.z), 1f);
     }
 
     private void TurnRight()

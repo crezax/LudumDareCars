@@ -4,8 +4,6 @@ using UnityEngine;
 public class SignalJammer : TurnBasedBehaviour
 {
     [SerializeField]
-    private Field field;
-    [SerializeField]
     private ColliderEventsDelegate colliderEventsDelegate;
 
     protected void Awake()
@@ -19,7 +17,7 @@ public class SignalJammer : TurnBasedBehaviour
     {
         if (collider.TryGetComponent<Car>(out var car))
         {
-            car.HasSignal = false;
+            car.JamSignal();
         }
     }
 
@@ -27,7 +25,7 @@ public class SignalJammer : TurnBasedBehaviour
     {
         if (collider.TryGetComponent<Car>(out var car))
         {
-            car.HasSignal = true;
+            car.UnjamSignal();
         }
     }
 }

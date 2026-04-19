@@ -1,4 +1,6 @@
 using System.Collections.Generic;
+using System.Linq;
+using DG.Tweening;
 using UnityEngine;
 
 public class TurnManager : MonoBehaviour
@@ -10,9 +12,37 @@ public class TurnManager : MonoBehaviour
         get => instance;
     }
 
-    private List<TurnBasedBehaviour> turnBasedBehaviours = new();
-    private static readonly float TURN_DURATION = 2f;
-    private float timeTillNextTurn = TURN_DURATION;
+    private readonly List<TurnBasedBehaviour> turnBasedBehaviours = new();
+    private readonly List<TurnBasedBehaviour> turnBasedBehavioursToUnregister = new();
+    private bool turnLogicInProgress = false;
+    private bool CarAnimationsInProgress
+    {
+        get
+        {
+            var cars = FindObjectsByType<Car>(FindObjectsSortMode.None);
+            if (cars.Length == 0)
+            {
+                return false;
+            }
+            var tweens = cars
+                .Select(car => DOTween.TweensByTarget(car.transform))
+                .Where(carTweens => carTweens != null)
+                .SelectMany(carTweens => carTweens)
+                .Where(tween => tween != null)
+                .ToList();
+
+            return tweens.Count > 0;
+        }
+    }
+    public bool TurnInProgress
+    {
+        get
+        {
+            return turnLogicInProgress || CarAnimationsInProgress;
+        }
+    }
+    // private static readonly float TURN_DURATION = 2f;
+    // private float timeTillNextTurn = TURN_DURATION;
 
     protected void Awake()
     {
@@ -26,7 +56,7 @@ public class TurnManager : MonoBehaviour
         }
     }
 
-    protected void Update()
+    /*protected void Update()
     {
         if (timeTillNextTurn > 0)
         {
@@ -48,7 +78,7 @@ public class TurnManager : MonoBehaviour
                 turnBasedBehaviour.AfterTurn();
             }
         }
-    }
+    }*/
 
     public void Register(TurnBasedBehaviour turnBasedBehaviour)
     {
@@ -57,6 +87,34 @@ public class TurnManager : MonoBehaviour
 
     public void Unregister(TurnBasedBehaviour turnBasedBehaviour)
     {
-        turnBasedBehaviours.Remove(turnBasedBehaviour);
+        turnBasedBehavioursToUnregister.Add(turnBasedBehaviour);
+    }
+
+    public void PerformTurn()
+    {
+        turnLogicInProgress = true;
+        foreach (TurnBasedBehaviour turnBasedBehaviour in turnBasedBehaviours)
+        {
+            if (turnBasedBehavioursToUnregister.Contains(turnBasedBehaviour)) continue;
+            turnBasedBehaviour.BeforeTurn();
+        }
+        foreach (TurnBasedBehaviour turnBasedBehaviour in turnBasedBehaviours)
+        {
+            if (turnBasedBehavioursToUnregister.Contains(turnBasedBehaviour)) continue;
+            turnBasedBehaviour.DuringTurn();
+        }
+        foreach (TurnBasedBehaviour turnBasedBehaviour in turnBasedBehaviours)
+        {
+            if (turnBasedBehavioursToUnregister.Contains(turnBasedBehaviour)) continue;
+            turnBasedBehaviour.AfterTurn();
+        }
+
+        foreach (TurnBasedBehaviour turnBasedBehaviour in turnBasedBehavioursToUnregister)
+        {
+            turnBasedBehaviours.Remove(turnBasedBehaviour);
+        }
+        turnBasedBehavioursToUnregister.Clear();
+
+        turnLogicInProgress = false;
     }
 }

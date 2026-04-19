@@ -10,7 +10,10 @@ public class Field : MonoBehaviour
         set
         {
             car = value;
-            CarEntered?.Invoke(car);
+            if (car != null)
+            {
+                CarEntered?.Invoke(car);
+            }
         }
     }
 
