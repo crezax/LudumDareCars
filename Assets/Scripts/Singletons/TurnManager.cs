@@ -14,6 +14,13 @@ public class TurnManager : MonoBehaviour
 
     private readonly List<TurnBasedBehaviour> turnBasedBehaviours = new();
     private readonly List<TurnBasedBehaviour> turnBasedBehavioursToUnregister = new();
+    private int turnNumber = 0;
+
+    public int TurnNumber
+    {
+        get => turnNumber;
+    }
+
     private bool turnLogicInProgress = false;
     private bool CarAnimationsInProgress
     {
@@ -92,6 +99,12 @@ public class TurnManager : MonoBehaviour
 
     public void PerformTurn()
     {
+        turnNumber++;
+        StartCoroutine(PerformTurnCoroutine());
+    }
+
+    private System.Collections.IEnumerator PerformTurnCoroutine()
+    {
         turnLogicInProgress = true;
         foreach (TurnBasedBehaviour turnBasedBehaviour in turnBasedBehaviours)
         {
@@ -102,6 +115,11 @@ public class TurnManager : MonoBehaviour
         {
             if (turnBasedBehavioursToUnregister.Contains(turnBasedBehaviour)) continue;
             turnBasedBehaviour.DuringTurn();
+        }
+        yield return new WaitForSeconds(1f);
+        while (CarAnimationsInProgress)
+        {
+            yield return null;
         }
         foreach (TurnBasedBehaviour turnBasedBehaviour in turnBasedBehaviours)
         {

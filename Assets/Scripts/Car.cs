@@ -134,6 +134,7 @@ public class Car : TurnBasedBehaviour
 
     public void Die()
     {
+        Debug.Log($"Car {name} died at {field.name}");
         if (!isAlive) return;
         isAlive = false;
         transform.DOKill();
@@ -154,8 +155,10 @@ public class Car : TurnBasedBehaviour
     {
         Field target = field.GetNeighbour(CurrentDirection);
         Debug.Log($"Car {name} trying to move from {field.name} to {target.name}");
-        Field = target;
-        transform.DOMove(new Vector3(target.transform.position.x, target.transform.position.y, transform.position.z), 1f);
+        transform.DOMove(new Vector3(target.transform.position.x, target.transform.position.y, transform.position.z), 1f).OnComplete(() =>
+        {
+            Field = target;
+        });
     }
 
     private void TurnRight()
@@ -197,5 +200,9 @@ public class Car : TurnBasedBehaviour
         {
             Field = target;
         });
+
+        moveSeq.SetTarget(this);
+
+        moveSeq.Play();
     }
 }

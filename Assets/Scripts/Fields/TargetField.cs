@@ -5,7 +5,7 @@ using UnityEngine;
 public class TargetField : TurnBasedBehaviour
 {
     private Field field;
-    int carCounter = 0;
+    private static int carCounter = 0;
 
     protected void Awake()
     {
@@ -21,6 +21,7 @@ public class TargetField : TurnBasedBehaviour
 
     private void OnCarEntered(Car car)
     {
+        car.DOKill();
         TurnManager.Instance.Unregister(car);
         car.transform.DOScale(0, 1f);
         carCounter--;

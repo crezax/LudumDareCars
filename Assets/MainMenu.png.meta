@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 7c5270de303464373bef1ebd6f6886c8
+guid: ba6ac68affa49498da91dbf1563a917c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1417285299730740912
-    second: YOU-WIN_0000s_0018_Layer-11_0
-  - first:
-      213: 1505500519362904021
-    second: YOU-WIN_0000s_0018_Layer-11_1
-  - first:
-      213: -6739702037048480626
-    second: YOU-WIN_0000s_0018_Layer-11_2
+      213: -3451699440861859892
+    second: MainMenu_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -102,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: YOU-WIN_0000s_0018_Layer-11_0
+      name: MainMenu_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2307
-        height: 2419
+        width: 2366
+        height: 1320
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,52 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0598a2c678ac45ce0800000000000000
-      internalID: -1417285299730740912
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: YOU-WIN_0000s_0018_Layer-11_1
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 54
-        width: 2693
-        height: 2749
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5dfbac1febc94e410800000000000000
-      internalID: 1505500519362904021
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: YOU-WIN_0000s_0018_Layer-11_2
-      rect:
-        serializedVersion: 2
-        x: 515
-        y: 434
-        width: 2304
-        height: 2423
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e8cafbda4b4c772a0800000000000000
-      internalID: -6739702037048480626
+      spriteID: ccfa30c75a91910d0800000000000000
+      internalID: -3451699440861859892
       vertices: []
       indices: 
       edges: []
@@ -198,9 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      YOU-WIN_0000s_0018_Layer-11_0: -1417285299730740912
-      YOU-WIN_0000s_0018_Layer-11_1: 1505500519362904021
-      YOU-WIN_0000s_0018_Layer-11_2: -6739702037048480626
+      MainMenu_0: -3451699440861859892
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

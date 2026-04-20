@@ -44,12 +44,12 @@ public class SpikesField : TurnBasedBehaviour
         base.BeforeTurn();
         SpikesActive = !SpikesActive;
         if (!SpikesActive) spikes.transform.DOLocalMoveY(-0.5f, 0.5f);
+        if (SpikesActive) spikes.transform.DOLocalMoveY(0f, 0.2f);
     }
 
     public override void AfterTurn()
     {
         base.AfterTurn();
-        if (SpikesActive) spikes.transform.DOLocalMoveY(0f, 0.2f);
         if (field.Car != null && SpikesActive)
         {
             field.Car.Die();
